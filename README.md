@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Md%20Rizwan%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58" width="85%" />
-</p>
+## Hi, I'm Md Rizwan Alam 👋
 
 
 ## 👨‍💻 About Me
