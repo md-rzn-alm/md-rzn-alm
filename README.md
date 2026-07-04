@@ -1,12 +1,15 @@
-## Hi there 👋 I am Md Rizwan Alam
+## Hi, I'm Md Rizwan Alam 👋
 
-## About Me
+## 👨‍💻 About Me
 
-I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, Excel, Statistics, and Machine Learning. I enjoy transforming raw data into meaningful insights through data analysis, visualization, and interactive dashboards. 
+- 🎓 Aspiring Data Analyst & Machine Learning Enthusiast.
+- 📊 Passionate about transforming data into actionable insights.
+- 💡 Skilled in Python, SQL, Power BI, Excel, Statistics, and Machine Learning.
+- 🚀 Building real-world data analytics and ML projects.
+- 🌱 Currently learning Data Science and AI
 
-I have worked on end-to-end data analytics projects, including startup funding analysis, credit risk prediction, and business intelligence dashboards using Streamlit. I am passionate about solving real-world problems with data, continuously learning new technologies, and improving my analytical and problem-solving skills. 
 
-I am currently seeking opportunities where I can apply my technical skills, contribute to data-driven decision-making, and grow as a Data Analyst in a collaborative environment.
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Click_Here-6f42c1?style=for-the-badge)](https://rizwan-alam-data-ui-ijcb2ds.gamma.site/)
 
 ## My Github Stats
 
@@ -16,7 +19,7 @@ I am currently seeking opportunities where I can apply my technical skills, cont
 </p>
 
 
-## Repo
+## Pinned Repo
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=md-rzn-alm&theme=radical&repo=StartUp_Analysis_Dashboard)](https://github.com/md-rzn-alm/StartUp_Analysis_Dashboard )
 
